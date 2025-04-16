@@ -12,7 +12,7 @@ from image_processing.categorizer import categorize
 import requests
 from io import BytesIO
 import json
-from bson import SON 
+from bson import SON
 
 from geocode import router as geocode_router
 import httpx
