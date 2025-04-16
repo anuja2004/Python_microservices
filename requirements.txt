@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+cloudinary
+Pillow
+google-generativeai
+requests
+bson
+python-multipart
+serpapi
+praw
+httpx
+playwright
+google-search-results
