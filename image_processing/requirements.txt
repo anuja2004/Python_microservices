@@ -1,5 +1,9 @@
 google-generativeai
 Pillow
-speechrecognition
+SpeechRecognition
 pyaudio
 python-dotenv
+fastapi
+uvicorn
+pymongo
+python-multipart
